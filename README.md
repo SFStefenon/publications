@@ -1,6 +1,4 @@
-# pupblications
-
-% 30 citações
+# 30 citações
 
 %@article{stefenon01, title = "Wavelet group method of data handling for fault prediction in electrical power insulators", 
 author = "Stéfano Frizzo Stefenon and Matheus Henrique Dal Molin Ribeiro and Ademir Nied and Viviana Cocco Mariani and Leandro Santos Coelho and Diovana Fátima Menegat da Rocha and Rafael Bartnik Grebogi and Ruano, António Eduardo Barros", journal = "International Journal of Electrical Power \& Energy Systems", volume = "123", pages = "106269", year = "2020", issn = "0142-0615", doi = "10.1016/j.ijepes.2020.106269",}
@@ -22,7 +20,7 @@ author={C. {Kasburg} and S. F. {Stefenon}}, journal={IEEE Latin America Transact
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-% 25 citações
+# 25 citações
 
 %@article{stefenon08, title = {Analysis of training techniques of {ANN} for classification of insulators in electrical power systems}, 
 author = {Stefenon, Stéfano Frizzo and Branco, Nathielle Waldrigues and Nied, Ademir and Bertol, Douglas Wildgrube and Finardi, Erlon Cristian and Sartori, Andreza and Meyer, Luiz Henrique and Grebogi, Rafael Bartnik }, journal = {IET Generation, Transmission \& Distribution}, volume = {14}, number = {8}, pages = {1591-1597}, doi = {10.1049/iet-gtd.2019.1579}, year = {2020}}
@@ -47,7 +45,7 @@ author={Stefenon, S. F. and Ribeiro, M. H. D. M. and Nied, A. and Mariani, V. C.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-% 20 citações
+# 20 citações
 
 %@ARTICLE{stefenon10, title={Evaluation of Methods for Electric Field Calculation in Transmission Lines},  
 author={Corso, Marcelo Picolotto and Stefenon, Stefano Frizzo and Couto, Vitor Fernando and Cabral, Sergio Henrique Lopes and Nied, Ademir},  journal={IEEE Latin America Transactions},   year={2018},  volume={16},  number={12},  pages={2970-2976},  doi={10.1109/TLA.2018.8804264}}
@@ -69,7 +67,7 @@ author={Muniz, Rafael Ninno and Stefenon, St{\'e}fano Frizzo and Buratto, Willia
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-% 15 citações
+# 15 citações
 
 @article{stefenon23, title={Comparison of artificial intelligence techniques to failure prediction in contaminated insulators based on leakage current}, 
 author={Medeiros, A. and Sartori, A. and Stefenon, S. F. and Meyer, L. H. and Nied, A.}, journal={Journal of Intelligent \& Fuzzy Systems}, year={2022}, volume={42}, number={4}, pages={3285-3298}, DOI={10.3233/JIFS-211126},}
@@ -112,7 +110,7 @@ author={Stefenon, S. F. and Nied, A.},  journal={IEEE Latin America Transactions
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-% less than 10 citações
+# less than 10 citações
 
 @article{SOUZA2023108982, title = {{{Hybrid-YOLO} for classification of insulators defects in transmission lines based on {UAV}}}, 
 author = {Bruno José Souza and Stefano Frizzo Stefenon and Gurmail Singh and Roberto Zanetti Freire}, journal = {International Journal of Electrical Power \& Energy Systems}, volume = {148}, pages = {108982}, year = {2023}, issn = {0142-0615}, doi = {10.1016/j.ijepes.2023.108982}, }
