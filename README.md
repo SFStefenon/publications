@@ -142,6 +142,9 @@ author={Klaar, Anne Carolina Rodrigues and Stefenon, Stefano Frizzo and Seman, L
 %@Article{stefenon31, TITLE = {Static Attitude Determination Using Convolutional Neural Networks},
 AUTHOR = {dos Santos, Guilherme Henrique and Seman, Laio Oriel and Bezerra, Eduardo Augusto and Leithardt, Valderi Reis Quietinho and Mendes, André Sales and Stefenon, Stéfano Frizzo},  JOURNAL = {Sensors}, VOLUME = {21}, YEAR = {2021}, NUMBER = {19}, pages = {6419}, DOI = {10.3390/s21196419}}
 
+@article{gtd2.12886, title = {Optimized hybrid YOLOu-Quasi-ProtoPNet for insulators classification},
+author = {Stefenon, Stefano Frizzo and Singh, Gurmail and Souza, Bruno José and Freire, Roberto Zanetti and Yow, Kin-Choong}, journal = {IET Generation, Transmission \& Distribution}, volume = {17}, number = {15}, pages = {3501-3511}, doi = {10.1049/gtd2.12886}, year = {2023}}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -154,7 +157,6 @@ AUTHOR = {dos Santos, Guilherme Henrique and Seman, Laio Oriel and Bezerra, Edua
 %@article{stefenon36, title={Financial Feasibility Study for Radio Installation Link on the Mobile Telephone Network}, author={da Cruz, Fernando Cesar and Stefenon, St{\'e}fano Frizzo and Furtado, Rafael Gattino and Rocca, Graciela Alessandra Dela and Ferreira, Fernanda Cristina Silva}, journal={Revista GEINTEC-Gest{\~a}o, Inova{\c{c}}{\~a}o e Tecnologias}, volume={8}, number={3}, pages={4447--4460}, year={2018}}
 
 
-Optimized hybrid YOLOu-Quasi-ProtoPNet for insulators classification
 
 Detection and classification of cracks and potholes in road images using texture descriptors
 
