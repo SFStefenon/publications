@@ -1,22 +1,22 @@
 # 30 citações
 
 %@article{stefenon01, title = "Wavelet group method of data handling for fault prediction in electrical power insulators", 
-author = "Stéfano Frizzo Stefenon and Matheus Henrique Dal Molin Ribeiro and Ademir Nied and Viviana Cocco Mariani and Leandro Santos Coelho and Diovana Fátima Menegat da Rocha and Rafael Bartnik Grebogi and Ruano, António Eduardo Barros", journal = "International Journal of Electrical Power \& Energy Systems", volume = "123", pages = "106269", year = "2020", issn = "0142-0615", doi = "10.1016/j.ijepes.2020.106269",}
+author = "Stéfano Frizzo Stefenon and Matheus Henrique Dal Molin Ribeiro and Ademir Nied and Viviana Cocco Mariani and Leandro Santos Coelho and Diovana Fátima Menegat da Rocha and Rafael Bartnik Grebogi and Ruano, António Eduardo Barros", journal = "International Journal of Electrical Power \& Energy Systems", volume = "123", pages = "106269", year = "2020", doi = "10.1016/j.ijepes.2020.106269",}
 
-%@article{stefenon02,  title={Optimized Ensemble Extreme Learning Machine for Classification of Electrical Insulators Conditions}, 
+%@article{stefenon02,  title={Optimized ensemble extreme learning machine for classification of electrical insulators conditions}, 
 author={Stefenon, Stéfano Frizzo and Grebogi, Rafael Bartnik and Freire, Roberto Zanetti and Nied, Ademir and Meyer, Luiz Henrique},  journal={IEEE Transactions on Industrial Electronics},  year={2020},  volume={67},  number={6},  pages={5170-5178},  doi={10.1109/TIE.2019.2926044}}
 
-%@Article{stefenon04, TITLE = {Electricity Price Forecasting Based on Self-Adaptive Decomposition and Heterogeneous Ensemble Learning},
-AUTHOR = {Ribeiro, Matheus Henrique Dal Molin and Stefenon, Stéfano Frizzo and de Lima, José Donizetti and Nied, Ademir and Mariani, Viviana Cocco and Coelho, Leandro Santos},  JOURNAL = {Energies}, pages = {5190}, YEAR = {2020}, volume={13}, NUMBER = {19}, doi = {10.3390/en13195190}, ISSN = {1996-1073}}
+%@Article{stefenon04, TITLE = {Electricity price forecasting based on self-adaptive decomposition and heterogeneous ensemble learning},
+AUTHOR = {Ribeiro, Matheus Henrique Dal Molin and Stefenon, Stéfano Frizzo and de Lima, José Donizetti and Nied, Ademir and Mariani, Viviana Cocco and Coelho, Leandro Santos},  JOURNAL = {Energies}, pages = {5190}, YEAR = {2020}, volume={13}, NUMBER = {19}, doi = {10.3390/en13195190}}
 
-%@article{stefenon03,  title={Electrical Insulator Fault Forecasting Based on a Wavelet Neuro-Fuzzy System}, 
-author={Stefenon, Stéfano Frizzo and Freire, Roberto Zanetti and Coelho, Leandro Santos and Meyer, Luiz Henrique and Grebogi, Rafael Bartnik and Buratto, William Gouvêa and Nied, Ademir},  volume={13}, ISSN={1996-1073},  DOI={10.3390/en13020484}, number={2}, journal={Energies}, publisher={MDPI AG}, year={2020}, month={Jan}, pages={484}}
+%@article{stefenon03,  title={Electrical insulator fault forecasting based on a wavelet neuro-fuzzy system}, 
+author={Stefenon, Stéfano Frizzo and Freire, Roberto Zanetti and Coelho, Leandro Santos and Meyer, Luiz Henrique and Grebogi, Rafael Bartnik and Buratto, William Gouvêa and Nied, Ademir},  volume={13}, DOI={10.3390/en13020484}, number={2}, journal={Energies}, year={2020}, pages={484}}
 
 %@article{stefenon16, title = {Time series forecasting using ensemble learning methods for emergency prevention in hydroelectric power plants with dam}, 
 author = {Stefano Frizzo Stefenon and Matheus Henrique Dal Molin Ribeiro and Ademir Nied and Kin-Choong Yow and Viviana Cocco Mariani and Leandro dos Santos Coelho and Laio Oriel Seman}, journal = {Electric Power Systems Research}, volume = {202}, pages = {107584}, year = {2022}, doi = {10.1016/j.epsr.2021.107584},}
 
-%@ARTICLE{stefenon05, title={Deep Learning for Photovoltaic Generation Forecast in Active Solar Trackers}, 
-author={C. {Kasburg} and S. F. {Stefenon}}, journal={IEEE Latin America Transactions},    year={2019},  volume={17},  number={12},  pages={2013-2019}, doi = "10.1109/TLA.2019.9011546",}
+%@ARTICLE{stefenon05, title={Deep learning for photovoltaic generation forecast in active solar trackers}, 
+author={C. {Kasburg} and S. F. {Stefenon}}, journal={IEEE Latin America Transactions}, year={2019},  volume={17},  number={12},  pages={2013-2019}, doi = "10.1109/TLA.2019.9011546",}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -25,7 +25,7 @@ author={C. {Kasburg} and S. F. {Stefenon}}, journal={IEEE Latin America Transact
 %@article{stefenon08, title = {Analysis of training techniques of {ANN} for classification of insulators in electrical power systems}, 
 author = {Stefenon, Stéfano Frizzo and Branco, Nathielle Waldrigues and Nied, Ademir and Bertol, Douglas Wildgrube and Finardi, Erlon Cristian and Sartori, Andreza and Meyer, Luiz Henrique and Grebogi, Rafael Bartnik }, journal = {IET Generation, Transmission \& Distribution}, volume = {14}, number = {8}, pages = {1591-1597}, doi = {10.1049/iet-gtd.2019.1579}, year = {2020}}
 
-%@article{stefenon07,  title={A Study of Multilayer Perceptron Networks Applied to Classification of Ceramic Insulators Using Ultrasound},  
+%@article{stefenon07,  title={A study of multilayer perceptron networks applied to classification of ceramic insulators using ultrasound},  
 author={Sopelsa Neto,  Nemesio Fava and Stefenon,  St{\'e}fano Frizzo and Meyer,  Luiz Henrique and Bruns,  Rafael and Nied,  Ademir and Seman,  Laio Oriel and Gonzalez,  Gabriel Villarrubia and Leithardt,  Valderi Reis Quietinho and Yow,  Kin-Choong},  journal={Applied Sciences},   volume={11},   number={4},   pages={1592}, year={2021}, doi={10.3390/app11041592}, }
 
 %@article{stefenon17, title={Fault detection in insulators based on ultrasonic signal processing using a hybrid deep learning technique}, 
@@ -40,7 +40,7 @@ author = {Stefenon, Stéfano Frizzo and Kasburg, Christopher and Nied, Ademir an
 %@ARTICLE{stefenon06, title={Fault diagnosis of insulators from ultrasound detection using neural networks}, 
 author={S. F. {Stefenon} and M. C. {Silva} and D. W. {Bertol} and L. H. {Meyer} and A. {Nied} }, journal={Journal of Intelligent \& Fuzzy Systems}, year={2019}, volume={37}, number={5}, pages={6655-6664}, doi={10.3233/JIFS-190013}, month={November},}
 
-%@ARTICLE{stefenon11, title={Hybrid Wavelet Stacking Ensemble Model for Insulators Contamination Forecasting}, 
+%@ARTICLE{stefenon11, title={Hybrid wavelet stacking ensemble model for insulators contamination forecasting}, 
 author={Stefenon, S. F. and Ribeiro, M. H. D. M. and Nied, A. and Mariani, V. C. and Coelho, L. S. and Leithardt, V. R. Q. and Silva, L. A. and Seman, L. O.},  journal={IEEE Access}, year={2021},  volume={9},  number={},  pages={66387-66397}, doi={10.1109/ACCESS.2021.3076410}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
