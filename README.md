@@ -1,6 +1,6 @@
 # 30 citações
 
-%@article{stefenon01, title = "Wavelet group method of data handling for fault prediction in electrical power insulators", author = "Stéfano Frizzo Stefenon and Matheus Henrique Dal Molin Ribeiro and Ademir Nied and Viviana Cocco Mariani and Leandro Santos Coelho and Diovana Fátima Menegat da Rocha and Rafael Bartnik Grebogi and Ruano, António Eduardo Barros", journal = "International Journal of Electrical Power \& Energy Systems", volume = "123", pages = "106269", year = "2020", doi = "10.1016/j.ijepes.2020.106269",}
+`@article{stefenon01, title = "Wavelet group method of data handling for fault prediction in electrical power insulators", author = "Stéfano Frizzo Stefenon and Matheus Henrique Dal Molin Ribeiro and Ademir Nied and Viviana Cocco Mariani and Leandro Santos Coelho and Diovana Fátima Menegat da Rocha and Rafael Bartnik Grebogi and Ruano, António Eduardo Barros", journal = "International Journal of Electrical Power \& Energy Systems", volume = "123", pages = "106269", year = "2020", doi = "10.1016/j.ijepes.2020.106269",}`
 
 %@article{stefenon02,  title={Optimized ensemble extreme learning machine for classification of electrical insulators conditions}, author={Stefenon, Stéfano Frizzo and Grebogi, Rafael Bartnik and Freire, Roberto Zanetti and Nied, Ademir and Meyer, Luiz Henrique},  journal={IEEE Transactions on Industrial Electronics},  year={2020},  volume={67},  number={6},  pages={5170-5178},  doi={10.1109/TIE.2019.2926044}}
 
