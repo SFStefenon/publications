@@ -107,6 +107,8 @@ AUTHOR = {Stefenon, Stefano Frizzo and Seman, Laio Oriel and Mariani, Viviana Co
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+@article{westarb2023complex, title={Complex graph neural networks for medication interaction verification}, author={Westarb, Gustavo and Stefenon, Stefano Frizzo and Hoppe, Aur{\'e}lio Faustino and Sartori, Andreza and Klaar, Anne Carolina Rodrigues and Leithardt, Valderi Reis Quietinho},  journal={Journal of Intelligent \& Fuzzy Systems}, doi={10.3233/JIFS-223656}, volume={44}, number={6}, pages={10383-10395}, year={2023}}
+
 @ARTICLE{stefenon33, title={Practical aspects of the skin effect in low frequencies in rectangular conductors}, author={Cabral, Sérgio H. L. and Bertoli, Sávio L. and Medeiros, Alessandro and Hillesheim, Crisleine Regina and De Souza, Carolina K. and Stefenon, Stéfano Frizzo and Nied, Ademir and Leithardt, Valderi Reis Quietinho and González, Gabriel Villarrubia},  journal={IEEE Access}, year={2021}, volume={9}, number={}, pages={49424-49433}, doi={10.1109/ACCESS.2021.3069821}}
 
 @article{stefenon34, title={Analysis of technical and financial viability of a fixed site internet broadband}, author={Righez, Francisco Oscar and Dela Rocca, Graciela Alessandra and Arruda, Petterson Andrade and Stefenon, Stefano Frizzo}, journal={Revista GEINTEC-Gest{\~a}o, Inova{\c{c}}{\~a}o e Tecnologias},  volume={6}, number={4}, pages={3537--3552}, year={2016}}
@@ -115,10 +117,8 @@ AUTHOR = {Stefenon, Stefano Frizzo and Seman, Laio Oriel and Mariani, Viviana Co
 
 @article{stefenon36, title={Financial feasibility study for radio installation link on the mobile telephone network}, author={da Cruz, Fernando Cesar and Stefenon, St{\'e}fano Frizzo and Furtado, Rafael Gattino and Rocca, Graciela Alessandra Dela and Ferreira, Fernanda Cristina Silva}, journal={Revista GEINTEC-Gest{\~a}o, Inova{\c{c}}{\~a}o e Tecnologias}, volume={8}, number={3}, pages={4447--4460}, year={2018}}
 
+@article{fernandes2023, title={Detection and classification of cracks and potholes in road images using texture descriptors}, author={Fernandes, Anita Maria da Rocha and Cassaniga, Mateus Junior and Passos, Bianka Tallita and Comunello, Eros and Stefenon, Stefano Frizzo and Leithardt, Valderi Reis Quietinho},  journal={Journal of Intelligent \& Fuzzy Systems},   year={2023},  volume={44}, number={6}, pages={10255-10274}, doi={10.3233/JIFS-223218}}
 
 
-Detection and classification of cracks and potholes in road images using texture descriptors
-
-Complex graph neural networks for medication interaction verification
 
 OCR Applied for Identification of Vehicles with Irregular Documentation Using IoT
