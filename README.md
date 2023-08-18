@@ -8,7 +8,7 @@
 
 @article{stefenon03,  title={Electrical insulator fault forecasting based on a wavelet neuro-fuzzy system}, author={Stefenon, Stéfano Frizzo and Freire, Roberto Zanetti and Coelho, Leandro Santos and Meyer, Luiz Henrique and Grebogi, Rafael Bartnik and Buratto, William Gouvêa and Nied, Ademir},  volume={13}, DOI={10.3390/en13020484}, number={2}, journal={Energies}, year={2020}, pages={484}}
 
-@article{stefenon16, title = {Time series forecasting using ensemble learning methods for emergency prevention in hydroelectric power plants with dam}, author = {Stefano Frizzo Stefenon and Matheus Henrique Dal Molin Ribeiro and Ademir Nied and Kin-Choong Yow and Viviana Cocco Mariani and Leandro dos Santos Coelho and Laio Oriel Seman}, journal = {Electric Power Systems Research}, volume = {202}, pages = {107584}, year = {2022}, doi = {10.1016/j.epsr.2021.107584},}
+@article{stefenon16, title = {Time series forecasting using ensemble learning methods for emergency prevention in hydroelectric power plants with dam}, author = {Stefano Frizzo Stefenon and Matheus Henrique Dal Molin Ribeiro and Ademir Nied and Kin-Choong Yow and Viviana Cocco Mariani and Leandro Santos Coelho and Laio Oriel Seman}, journal = {Electric Power Systems Research}, volume = {202}, pages = {107584}, year = {2022}, doi = {10.1016/j.epsr.2021.107584},}
 
 @ARTICLE{stefenon05, title={Deep learning for photovoltaic generation forecast in active solar trackers}, author={C. {Kasburg} and S. F. {Stefenon}}, journal={IEEE Latin America Transactions}, year={2019},  volume={17},  number={12},  pages={2013-2019}, doi = "10.1109/TLA.2019.9011546",}
 
@@ -92,7 +92,7 @@ AUTHOR = {Stefenon, Stefano Frizzo and Seman, Laio Oriel and Mariani, Viviana Co
 
 @article{singh2023interpretable,  title={Interpretable visual transmission lines inspections using pseudo-prototypical part network}, author={Singh, Gurmail and Stefenon, Stefano Frizzo and Yow, Kin-Choong},  journal={Machine Vision and Applications},  volume={34},  number={3},  pages={41},  year={2023}, doi={10.1007/s00138-023-01390-6},  publisher={Springer}}
 
-@article{SEMAN2023109269, title = {Ensemble learning methods using the {Hodrick–Prescott} filter for fault forecasting in insulators of the electrical power grids}, author = {Laio Oriel Seman and Stefano Frizzo Stefenon and Viviana Cocco Mariani and Leandro dos Santos Coelho}, journal = {International Journal of Electrical Power \& Energy Systems}, volume = {152}, pages = {109269}, year = {2023}, issn = {0142-0615}, doi = {10.1016/j.ijepes.2023.109269},}
+@article{SEMAN2023109269, title = {Ensemble learning methods using the {Hodrick–Prescott} filter for fault forecasting in insulators of the electrical power grids}, author = {Laio Oriel Seman and Stefano Frizzo Stefenon and Viviana Cocco Mariani and Leandro Santos Coelho}, journal = {International Journal of Electrical Power \& Energy Systems}, volume = {152}, pages = {109269}, year = {2023}, issn = {0142-0615}, doi = {10.1016/j.ijepes.2023.109269},}
 
 @Article{s23094512, TITLE = {Machine fault detection using a hybrid {CNN-LSTM} attention-based model}, AUTHOR = {Borré, Andressa and Seman, Laio Oriel and Camponogara, Eduardo and Stefenon, Stefano Frizzo and Mariani, Viviana Cocco and Coelho, Leandro Santos}, JOURNAL = {Sensors}, VOLUME = {23}, YEAR = {2023}, NUMBER = {9}, pages = {4512}, DOI = {10.3390/s23094512}}
 
@@ -104,7 +104,6 @@ AUTHOR = {Stefenon, Stefano Frizzo and Seman, Laio Oriel and Mariani, Viviana Co
 
 @article{gtd2.12886, title = {Optimized hybrid {YOLOu-Quasi-ProtoPNet} for insulators classification}, author = {Stefenon, Stefano Frizzo and Singh, Gurmail and Souza, Bruno José and Freire, Roberto Zanetti and Yow, Kin-Choong}, journal = {IET Generation, Transmission \& Distribution}, volume = {17}, number = {15}, pages = {3501-3511}, doi = {10.1049/gtd2.12886}, year = {2023}}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 @article{westarb2023complex, title={Complex graph neural networks for medication interaction verification}, author={Westarb, Gustavo and Stefenon, Stefano Frizzo and Hoppe, Aur{\'e}lio Faustino and Sartori, Andreza and Klaar, Anne Carolina Rodrigues and Leithardt, Valderi Reis Quietinho},  journal={Journal of Intelligent \& Fuzzy Systems}, doi={10.3233/JIFS-223656}, volume={44}, number={6}, pages={10383-10395}, year={2023}}
@@ -119,6 +118,9 @@ AUTHOR = {Stefenon, Stefano Frizzo and Seman, Laio Oriel and Mariani, Viviana Co
 
 @article{fernandes2023, title={Detection and classification of cracks and potholes in road images using texture descriptors}, author={Fernandes, Anita Maria da Rocha and Cassaniga, Mateus Junior and Passos, Bianka Tallita and Comunello, Eros and Stefenon, Stefano Frizzo and Leithardt, Valderi Reis Quietinho},  journal={Journal of Intelligent \& Fuzzy Systems},   year={2023},  volume={44}, number={6}, pages={10255-10274}, doi={10.3233/JIFS-223218}}
 
+@Article{electronics12051083, TITLE = {{OCR} applied for identification of vehicles with irregular documentation using {IoT}}, AUTHOR = {Glasenapp, Luiz Alfonso and Hoppe, Aurélio Faustino and Wisintainer, Miguel Alexandre and Sartori, Andreza and Stefenon, Stefano Frizzo}, JOURNAL = {Electronics}, VOLUME = {12}, YEAR = {2023}, NUMBER = {5}, pages = {1083}, DOI = {10.3390/electronics12051083}}
+
+@Article{s23146384, TITLE = {Video-based human activity recognition using deep learning approaches}, AUTHOR = {Surek, Guilherme Augusto Silva and Seman, Laio Oriel and Stefenon, Stefano Frizzo and Mariani, Viviana Cocco and Coelho, Leandro Santos}, JOURNAL = {Sensors}, VOLUME = {23}, YEAR = {2023}, NUMBER = {14}, pages = {6384}, DOI = {10.3390/s23146384}}
 
 
-OCR Applied for Identification of Vehicles with Irregular Documentation Using IoT
+
