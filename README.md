@@ -120,11 +120,9 @@ AUTHOR = {Stefenon, Stefano Frizzo and Seman, Laio Oriel and Mariani, Viviana Co
 
 @Article{electronics12051083, TITLE = {{OCR} applied for identification of vehicles with irregular documentation using {IoT}}, AUTHOR = {Glasenapp, Luiz Alfonso and Hoppe, Aurélio Faustino and Wisintainer, Miguel Alexandre and Sartori, Andreza and Stefenon, Stefano Frizzo}, JOURNAL = {Electronics}, VOLUME = {12}, YEAR = {2023}, NUMBER = {5}, pages = {1083}, DOI = {10.3390/electronics12051083}}
 
+@Article{s23136118, TITLE = {Group method of data handling using {Christiano-Fitzgerald} random walk filter for insulator fault prediction}, AUTHOR = {Stefenon, Stefano Frizzo and Seman, Laio Oriel and Sopelsa Neto, Nemesio Fava and Meyer, Luiz Henrique and Mariani, Viviana Cocco and Coelho, Leandro dos Santos}, JOURNAL = {Sensors}, VOLUME = {23}, YEAR = {2023}, NUMBER = {13}, pages = {6118}, DOI = {10.3390/s23136118}}
 
-@Article{s23136118, TITLE = {Group Method of Data Handling Using Christiano&ndash;Fitzgerald Random Walk Filter for Insulator Fault Prediction},
-AUTHOR = {Stefenon, Stefano Frizzo and Seman, Laio Oriel and Sopelsa Neto, Nemesio Fava and Meyer, Luiz Henrique and Mariani, Viviana Cocco and Coelho, Leandro dos Santos}, JOURNAL = {Sensors}, VOLUME = {23}, YEAR = {2023}, NUMBER = {13}, pages = {6118}, DOI = {10.3390/s23136118}}
-
-@article{gtd2.12886, title = {Optimized hybrid YOLOu-Quasi-ProtoPNet for insulators classification}, author = {Stefenon, Stefano Frizzo and Singh, Gurmail and Souza, Bruno José and Freire, Roberto Zanetti and Yow, Kin-Choong}, journal = {IET Generation, Transmission \& Distribution}, volume = {17}, number = {15}, pages = {3501-3511}, doi = {10.1049/gtd2.12886}, year = {2023}}
+@article{gtd2.12886, title = {Optimized hybrid {YOLOu-Quasi-ProtoPNet} for insulators classification}, author = {Stefenon, Stefano Frizzo and Singh, Gurmail and Souza, Bruno José and Freire, Roberto Zanetti and Yow, Kin-Choong}, journal = {IET Generation, Transmission \& Distribution}, volume = {17}, number = {15}, pages = {3501-3511}, doi = {10.1049/gtd2.12886}, year = {2023}}
 
 @Article{s23146384, TITLE = {Video-based human activity recognition using deep learning approaches}, AUTHOR = {Surek, Guilherme Augusto Silva and Seman, Laio Oriel and Stefenon, Stefano Frizzo and Mariani, Viviana Cocco and Coelho, Leandro Santos}, JOURNAL = {Sensors}, VOLUME = {23}, YEAR = {2023}, NUMBER = {14}, pages = {6384}, DOI = {10.3390/s23146384}}
 
