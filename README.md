@@ -52,8 +52,6 @@ DOI = {10.3390/a16090396}
 
 @Article{s23146384, TITLE = {Video-based human activity recognition using deep learning approaches}, AUTHOR = {Surek, Guilherme Augusto Silva and Seman, Laio Oriel and Stefenon, Stefano Frizzo and Mariani, Viviana Cocco and Coelho, Leandro Santos}, JOURNAL = {Sensors}, VOLUME = {23}, YEAR = {2023}, NUMBER = {14}, pages = {6384}, DOI = {10.3390/s23146384}}
 
-Corso, M.P., Stefenon, S.F., Singh, G. et al. Evaluation of visible contamination on power grid insulators using convolutional neural networks. Electr Eng (2023). https://doi.org/10.1007/s00202-023-01915-2
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 # less than 10 citações
