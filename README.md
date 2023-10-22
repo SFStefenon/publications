@@ -128,8 +128,7 @@ AUTHOR = {Stefenon, Stefano Frizzo and Seman, Laio Oriel and Mariani, Viviana Co
 
 @ARTICLE{8804264, title={Evaluation of methods for electric field calculation in transmission lines}, author={Corso, Marcelo Picolotto and Stefenon, Stefano Frizzo and Couto, Vitor Fernando and Cabral, Sergio Henrique Lopes and Nied, Ademir},  journal={IEEE Latin America Transactions}, year={2018}, volume={16}, number={12},  pages={2970-2976},  doi={10.1109/TLA.2018.8804264}}
 
-@ARTICLE{7910202, title={Diagnostic of insulators of conventional grid through {LabVIEW} analysis of {FFT} signal generated from ultrasound detector},  
-author={Stefenon, S. F. and Oliveira, J. R. and Coelho, A. S. and Meyer, L. H.},  journal={IEEE Latin America Transactions},    year={2017},  volume={15},  number={5},  pages={884-889},  doi={10.1109/TLA.2017.7910202}}
+@ARTICLE{7910202, title={Diagnostic of insulators of conventional grid through {LabVIEW} analysis of {FFT} signal generated from ultrasound detector}, author={Stefenon, S. F. and Oliveira, J. R. and Coelho, A. S. and Meyer, L. H.},  journal={IEEE Latin America Transactions},    year={2017},  volume={15},  number={5},  pages={884-889},  doi={10.1109/TLA.2017.7910202}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
