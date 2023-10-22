@@ -158,4 +158,4 @@ author={Stefenon, S. F. and Oliveira, J. R. and Coelho, A. S. and Meyer, L. H.},
 
 @article{stefenon16, title = {Time series forecasting using ensemble learning methods for emergency prevention in hydroelectric power plants with dam}, author = {Stefano Frizzo Stefenon and Matheus Henrique Dal Molin Ribeiro and Ademir Nied and Kin-Choong Yow and Viviana Cocco Mariani and Leandro Santos Coelho and Laio Oriel Seman}, journal = {Electric Power Systems Research}, volume = {202}, pages = {107584}, year = {2022}, doi = {10.1016/j.epsr.2021.107584},}
 
-@ARTICLE{stefenon05, title={Deep learning for photovoltaic generation forecast in active solar trackers}, author={C. {Kasburg} and S. F. {Stefenon}}, journal={IEEE Latin America Transactions}, year={2019},  volume={17},  number={12},  pages={2013-2019}, doi = "10.1109/TLA.2019.9011546",}
+@ARTICLE{stefenon05, title={Deep learning for photovoltaic generation forecast in active solar trackers}, author={C. {Kasburg} and S. F. {Stefenon}}, journal={IEEE Latin America Transactions}, year={2019},  volume={17},  number={12},  pages={2013-2019}, doi = {10.1109/TLA.2019.9011546},}
