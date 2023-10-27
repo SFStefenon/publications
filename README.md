@@ -1,3 +1,12 @@
+@article{109579,
+author = {Marcos Yamasaki and Roberto Zanetti Freire and Laio Oriel Seman and Stefano Frizzo Stefenon and Viviana Cocco Mariani and Leandro {dos Santos Coelho}},
+title = {Optimized hybrid ensemble learning approaches applied to very short-term load forecasting},
+journal = {International Journal of Electrical Power \& Energy Systems},
+volume = {155},
+pages = {109579},
+year = {2024},
+doi = {10.1016/j.ijepes.2023.109579},
+}
 
 @Article{a16090396,
 AUTHOR = {Wilbert, Henrique José and Hoppe, Aurélio Faustino and Sartori, Andreza and Stefenon, Stefano Frizzo and Silva, Luís Augusto},
