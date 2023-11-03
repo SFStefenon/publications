@@ -1,6 +1,6 @@
 @InProceedings{47546-7,
 author="Stefenon, Stefano Frizzo and Cristoforetti, Marco and Cimatti, Alessandro", 
-title="Towards Automatic Digitalization of Railway Engineering Schematics", booktitle="AIxIA 2023 -- Advances in Artificial Intelligence", year="2023", publisher="Springer Nature", address="Rome, Italy", pages="453--466", doi={10.1007/978-3-031-47546-7_31},}
+title="Towards Automatic Digitalization of Railway Engineering Schematics", booktitle="AIxIA 2023 -- Advances in Artificial Intelligence", year="2023", publisher="Springer Nature", address="Rome, Italy", pages="453-466", doi={10.1007/978-3-031-47546-7_31},}
 
 
 @article{109579,
