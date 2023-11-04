@@ -28,8 +28,8 @@ DOI = {10.3390/a16090396}
   title={Evaluation of visible contamination on power grid insulators using convolutional neural networks},
   author={Corso, Marcelo Picolotto and Stefenon, Stefano Frizzo and Singh, Gurmail and Matsuo, Marcos Vinicius and Perez, F{\'a}bio Luis and Leithardt, Valderi Reis Quietinho},
   journal={Electrical Engineering},
-  pages={1--14},
-  year={2023}, doi={10.1007/s00202-023-01915-2}
+  pages={3881–3894}, volume={105},
+  year={2023}, doi={10.1007/s00202-023-01915-2},
   publisher={Springer}
 }
 
